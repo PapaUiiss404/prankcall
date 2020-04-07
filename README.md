@@ -1,4 +1,4 @@
-# prankcall
+# Install
 Termux :  
 $ pkg install git  
 $ pkg install python2  
